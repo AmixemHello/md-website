@@ -3,5 +3,5 @@
  
 | Table of contents | Info          |
 | ------- | ------------------ |
-| [Images]()  | Cats images. |
+| [Images](pages/images.md)  | Cats images. |
 | [Emojis]()   | Get cats emojis.             |
