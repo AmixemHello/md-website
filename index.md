@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # Welcome to Cats websites! (beacause i love cats)
 
  
