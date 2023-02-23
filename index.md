@@ -1,5 +1,6 @@
 ---
-title: 'Cat Website'
+title: Home
+layout: home
 ---
 
 
